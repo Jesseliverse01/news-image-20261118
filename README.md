@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261118/Jesseliverse01/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![reward](https://make.fun/badge/news-image-20261118/Jesseliverse01/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
-A one-page newspaper front page summing up Wednesday 18 November 2026: the US–Iran tanker strikes in the Gulf, Ukraine's second-night hit on the Kerch Bridge, a deadly Russian military plane crash in Siberia, GTA 6 going live first in New Zealand, and the day's other top stories from Israel, North Korea, COP31, Europe and Gaza — all in one picture.
+A one-page newspaper front page summing up Wednesday 18 November 2026: Xi, Putin and Trump converging on Shenzhen for the APEC summit and Thursday's trilateral; twin earthquakes in Papua New Guinea and Indonesia's Flores; Bahrain's air defences downing Iranian drones; COP31 talks grinding into their final stretch — plus briefs from Taiwan, Manila, the NBA and Putin — all in one picture.
 
 ## Run it
 
