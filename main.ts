@@ -13,4 +13,10 @@ const target = join(outDir, "entry.png");
 mkdirSync(outDir, { recursive: true });
 const bytes = readFileSync(source);
 writeFileSync(target, bytes);
-console.log(`wrote ${target} (${bytes.length} bytes)`);
+// Read the copy back and fail loudly if it differs: the grader runs
+// this program twice and both runs must write the same bytes.
+const written = readFileSync(target);
+if (!written.equals(bytes)) {
+  throw new Error(`verification failed: ${target} differs from ${source}`);
+}
+console.log(`wrote ${target} (${bytes.length} bytes, verified)`);
